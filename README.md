@@ -1,25 +1,48 @@
 #### A REPORT ON
 
-> **"ONLINE LABOUR HIRING SYSTEM"**
->
+> **“ONLINE LABOUR HIRING SYSTEM”**
+> 
 > MAHARASHTRA STATE BOARD OF TECHNICAL EDUCATION MUMBAI THE PARTIAL
 > FULFILLMENT OF THE REQUIREMENTS FOR THE AWARD OF THE DIPLOMA
->
+> 
 > OF
 
 #### **DIPLOMA IN CIVIL ENGINEERING**
 
 > SUBMITTED BY
 
-+-----+---------------------------+---------------+
-| Mr. | Thete Yash Anil           | (23651230117) |
-+=====+===========================+===============+
-| Mr. | > Manjare Shruti Bhima    | (23651230106) |
-+-----+---------------------------+---------------+
-| Ms. | > Ahire Harshada Sahebrao | (24651230350) |
-+-----+---------------------------+---------------+
-| Ms. | > Raut Ritesh Dnyaneshwar | (23651230112) |
-+-----+---------------------------+---------------+
+<table>
+<thead>
+<tr class="header">
+<th>Mr.</th>
+<th>Thete Yash Anil</th>
+<th>(23651230117)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Mr.</td>
+<td><blockquote>
+<p>Manjare Shruti Bhima</p>
+</blockquote></td>
+<td>(23651230106)</td>
+</tr>
+<tr class="even">
+<td>Ms.</td>
+<td><blockquote>
+<p>Ahire Harshada Sahebrao</p>
+</blockquote></td>
+<td>(24651230350)</td>
+</tr>
+<tr class="odd">
+<td>Ms.</td>
+<td><blockquote>
+<p>Raut Ritesh Dnyaneshwar</p>
+</blockquote></td>
+<td>(23651230112)</td>
+</tr>
+</tbody>
+</table>
 
 > **GUIDED BY**
 
@@ -30,25 +53,48 @@
 #### **SND POLYTECHNIC BABHULGAON,**
 
 > YEOLA, NASHIK- 423401
->
+> 
 > MAHARASHTRA STATE BOARD OF TECHNICAL EDUCATION MUMBAI 2024-25
->
+> 
 > ![](media/media/image1.jpeg)
->
+> 
 > **CERTIFICATE**
->
-> This is to certify that project work entitled **"Online Labour hiring
-> System"** Submitted by
+> 
+> This is to certify that project work entitled **“Online Labour hiring
+> System”** Submitted by
 
-+-----+---------------------------+---------------+
-| Mr. | Thete Yash Anil           | (23651230117) |
-+=====+===========================+===============+
-| Mr. | > Manjare Shruti Bhima    | (23651230106) |
-+-----+---------------------------+---------------+
-| Ms. | > Ahire Harshada Sahebrao | (24651230350) |
-+-----+---------------------------+---------------+
-| Ms. | > Raut Ritesh Dnyaneshwar | (23651230112) |
-+-----+---------------------------+---------------+
+<table>
+<thead>
+<tr class="header">
+<th>Mr.</th>
+<th>Thete Yash Anil</th>
+<th>(23651230117)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Mr.</td>
+<td><blockquote>
+<p>Manjare Shruti Bhima</p>
+</blockquote></td>
+<td>(23651230106)</td>
+</tr>
+<tr class="even">
+<td>Ms.</td>
+<td><blockquote>
+<p>Ahire Harshada Sahebrao</p>
+</blockquote></td>
+<td>(24651230350)</td>
+</tr>
+<tr class="odd">
+<td>Ms.</td>
+<td><blockquote>
+<p>Raut Ritesh Dnyaneshwar</p>
+</blockquote></td>
+<td>(23651230112)</td>
+</tr>
+</tbody>
+</table>
 
 ####  **(Miss. Bharud.S.P) (Prof.Gandole V.A)**
 
@@ -58,33 +104,32 @@
 
 Project Co-ordinator (Principal)
 
-> **\...\...\...\...\...\...\...\...\...
-> \...\...\...\...\...\...\...\...\...**
+> **........................... ...........................**
 
 #### Internal Examiner External Examiner
 
 #### 
 
 > **ACKNOWLEDGEMENT**
->
+> 
 > It gives us great pleasure in presenting the preliminary project
-> report on 'Online Labour hiring System'
->
+> report on ‘Online Labour hiring System’
+> 
 > We would like to take this opportunity to thank our internal guide
 > (Miss.Bharud.S.P)
->
+> 
 > Coordinator Prof.Gandole V.A for giving us all the help and guidance
 > we needed. So really grateful to him for their kind support. Their
 > valuable suggestions were very helpful.
->
+> 
 > Beside, we are thankful to management and Prof. Jadhav U.B., Principal
 > of our
->
+> 
 > college.
->
+> 
 > We are thankful to our family members for supporting and encouraging
 > us and for providing their guidance for our project.
->
+> 
 > In the end, our thanks to all friends and colleagues for providing
 > their useful suggestions, which contributed greatly in making our
 > project successful.
@@ -98,7 +143,7 @@ Ms. Ahire Harshada Sahebrao (24651230350)
 Mr.Raut Ritesh Dnyaneshwar (23651230112)
 
 > **ABSTRACT**
->
+> 
 > The Online Labour Hiring System is an innovative web based platform
 > designed to streamline the process of hiring qualified and verified
 > labour workforce. Traditional hiring methods are often time
@@ -113,189 +158,369 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > It is particularly useful for residential societies, commercial
 > buildings, event organizers, and institutions seeking trusted labour
 > services.
->
+> 
 > **Keywords** :Labour Labour Hiring System, Web-based Application,
 > Real-time Communication, Reliability and Monitoring, Worker Verification,
 > Digital Labour Solutions.
->
+> 
 > **Contents**
 
-+------------------------------------------------------+--------------+
-| > **TITLE PAGE**                                     | **i**        |
-| >                                                    |              |
-| > **CERTIFICATE ACKNOWLEDG**                         | > **i i ii** |
-|                                                      |              |
-| **ABSTRACT**                                         |              |
-+======================================================+==============+
-| > **1 INTRODUCTION**                                 | > **1**      |
-+------------------------------------------------------+--------------+
-| 1.1 Overview . . . . . . . . . . . . . . . . . . . . | > 1          |
-| . . . . . . . . . . . . . . . . .                    |              |
-+------------------------------------------------------+--------------+
-| 1.2 Motivation . . . . . . . . . . . . . . . . . . . | > 2          |
-| . . . . . . . . . . . . . . . . .                    |              |
-+------------------------------------------------------+--------------+
-| 1.3 Problem Statement . . . . . . . . . . . . . . .  | > 3          |
-| . . . . . . . . . . . . . . . .                      |              |
-+------------------------------------------------------+--------------+
-| > **2 LITERATURE SURVEY**                            | > **4**      |
-+------------------------------------------------------+--------------+
-| 2.1 Literature Papers . . . . . . . . . . . . . . .  | > 4          |
-| . . . . . . . . . . . . . . . . .                    |              |
-+------------------------------------------------------+--------------+
-| 2.2 Limitation of Literature Survey . . . . . . . .  | > 6          |
-| . . . . . . . . . . . . . . . .                      |              |
-+------------------------------------------------------+--------------+
-| > **3 SOFTWARE REQUIREMENT SPECIFICATION**           | > **7**      |
-+------------------------------------------------------+--------------+
-| 3.1 Introduction . . . . . . . . . . . . . . . . . . | > 7          |
-| . . . . . . . . . . . . . . . . .                    |              |
-+------------------------------------------------------+--------------+
-| 3.1.1 Project Scope . . . . . . . . . . . . . . . .  | > 8          |
-| . . . . . . . . . . . . . .                          |              |
-+------------------------------------------------------+--------------+
-| 3.1.2 User classes and characteristics . . . . . . . | > 8          |
-| . . . . . . . . . . . . .                            |              |
-+------------------------------------------------------+--------------+
-| 3.1.3 Assumptions and Dependencies . . . . . . . . . | > 8          |
-| . . . . . . . . . . .                                |              |
-+------------------------------------------------------+--------------+
-| 3.2 Functional Requirements . . . . . . . . . . . .  | > 10         |
-| . . . . . . . . . . . . . . . .                      |              |
-+------------------------------------------------------+--------------+
-| 3.2.1 System Interface . . . . . . . . . . . . . . . | > 11         |
-| . . . . . . . . . . . . .                            |              |
-+------------------------------------------------------+--------------+
-| 3.3 Evternal Interface Requirement . . . . . . . . . | > 12         |
-| . . . . . . . . . . . . . . .                        |              |
-+------------------------------------------------------+--------------+
-| 3.3.1 User Interfaces . . . . . . . . . . . . . . .  | > 12         |
-| . . . . . . . . . . . . . .                          |              |
-+------------------------------------------------------+--------------+
-| 3.3.2 Communication Interfaces . . . . . . . . . . . | > 12         |
-| . . . . . . . . . . . .                              |              |
-+------------------------------------------------------+--------------+
-| 3.3.3 Software Quality Attributes . . . . . . . . .  | > 12         |
-| . . . . . . . . . . . . .                            |              |
-+------------------------------------------------------+--------------+
-| 3.4 User Interfaces . . . . . . . . . . . . . . . .  | > 13         |
-| . . . . . . . . . . . . . . . . .                    |              |
-+------------------------------------------------------+--------------+
-| 3.4.1 Six Usability Goals . . . . . . . . . . . . .  | > 13         |
-| . . . . . . . . . . . . . .                          |              |
-+------------------------------------------------------+--------------+
-| 3.5 Nonfunctional Requirement . . . . . . . . . . .  | > 14         |
-| . . . . . . . . . . . . . . .                        |              |
-+------------------------------------------------------+--------------+
+<table>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p><strong>TITLE PAGE</strong></p>
+<p><strong>CERTIFICATE ACKNOWLEDG</strong></p>
+</blockquote>
+<p><strong>ABSTRACT</strong></p></th>
+<th><p><strong>i</strong></p>
+<blockquote>
+<p><strong>i i ii</strong></p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p><strong>1 INTRODUCTION</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p><strong>1</strong></p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td>1.1 Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>1</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>1.2 Motivation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>2</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td>1.3 Problem Statement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>3</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p><strong>2 LITERATURE SURVEY</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p><strong>4</strong></p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td>2.1 Literature Papers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>4</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>2.2 Limitation of Literature Survey . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>6</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p><strong>3 SOFTWARE REQUIREMENT SPECIFICATION</strong></p>
+</blockquote></td>
+<td><blockquote>
+<p><strong>7</strong></p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>3.1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>7</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td>3.1.1 Project Scope . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>8</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>3.1.2 User classes and characteristics . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>8</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td>3.1.3 Assumptions and Dependencies . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>8</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>3.2 Functional Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>10</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td>3.2.1 System Interface . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>11</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>3.3 Evternal Interface Requirement . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>12</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td>3.3.1 User Interfaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>12</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>3.3.2 Communication Interfaces . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>12</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td>3.3.3 Software Quality Attributes . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>12</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>3.4 User Interfaces . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>13</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td>3.4.1 Six Usability Goals . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>13</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td>3.5 Nonfunctional Requirement . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>14</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-+-------+----------+-----------------------------------------+------+
-|       | > 3.5.1  | Usability: . . . . . . . . . . . . . .  | > 14 |
-|       |          | . . . . . . . . . . . . . . . . . .     |      |
-+=======+==========+=========================================+======+
-|       | > 3.5.2  | Reliability: . . . . . . . . . . . . .  | > 14 |
-|       |          | . . . . . . . . . . . . . . . . . . .   |      |
-+-------+----------+-----------------------------------------+------+
-|       | > 3.5.3  | Performance: . . . . . . . . . . . . .  | > 14 |
-|       |          | . . . . . . . . . . . . . . . . .       |      |
-+-------+----------+-----------------------------------------+------+
-|       | > 3.5.4  | Scalability: . . . . . . . . . . . . .  | > 14 |
-|       |          | . . . . . . . . . . . . . . . . . .     |      |
-+-------+----------+-----------------------------------------+------+
-|       | > 3.5.5  | Open standard: . . . . . . . . . . . .  | > 14 |
-|       |          | . . . . . . . . . . . . . . . .         |      |
-+-------+----------+-----------------------------------------+------+
-| > 3.6 | > System | Requirements . . . . . . . . . . . . .  | > 15 |
-|       |          | . . . . . . . . . . . . . . . . .       |      |
-+-------+----------+-----------------------------------------+------+
-|       | > 3.6.1  | Database Requirements . . . . . . . . . | > 15 |
-|       |          | . . . . . . . . . . . . . . . .         |      |
-+-------+----------+-----------------------------------------+------+
-|       | > 3.6.2  | Database . . . . . . . . . . . . . . .  | > 15 |
-|       |          | . . . . . . . . . . . . . . . . .       |      |
-+-------+----------+-----------------------------------------+------+
-|       | > 3.6.3  | Software Requirements(Platform Choice)  | > 16 |
-|       |          | . . . . . . . . . . . . . . .           |      |
-+-------+----------+-----------------------------------------+------+
-|       | > 3.6.4  | Development Tools . . . . . . . . . . . | > 16 |
-|       |          | . . . . . . . . . . . . . . . .         |      |
-+-------+----------+-----------------------------------------+------+
-|       | > 3.6.5  | Programming Language . . . . . . . . .  | > 17 |
-|       |          | . . . . . . . . . . . . . . .           |      |
-+-------+----------+-----------------------------------------+------+
-|       | > 3.6.6  | Framework . . . . . . . . . . . . . . . | > 18 |
-|       |          | . . . . . . . . . . . . . . . .         |      |
-+-------+----------+-----------------------------------------+------+
-|       | > 3.6.7  | Hardware Requirements . . . . . . . . . | > 19 |
-|       |          | . . . . . . . . . . . . . . .           |      |
-+-------+----------+-----------------------------------------+------+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><blockquote>
+<p>3.5.1</p>
+</blockquote></th>
+<th>Usability: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</th>
+<th><blockquote>
+<p>14</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><blockquote>
+<p>3.5.2</p>
+</blockquote></td>
+<td>Reliability: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>14</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>3.5.3</p>
+</blockquote></td>
+<td>Performance: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>14</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><blockquote>
+<p>3.5.4</p>
+</blockquote></td>
+<td>Scalability: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>14</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>3.5.5</p>
+</blockquote></td>
+<td>Open standard: . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>14</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>3.6</p>
+</blockquote></td>
+<td><blockquote>
+<p>System</p>
+</blockquote></td>
+<td>Requirements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>15</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>3.6.1</p>
+</blockquote></td>
+<td>Database Requirements . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>15</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><blockquote>
+<p>3.6.2</p>
+</blockquote></td>
+<td>Database . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>15</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>3.6.3</p>
+</blockquote></td>
+<td>Software Requirements(Platform Choice) . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>16</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><blockquote>
+<p>3.6.4</p>
+</blockquote></td>
+<td>Development Tools . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>16</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>3.6.5</p>
+</blockquote></td>
+<td>Programming Language . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>17</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><blockquote>
+<p>3.6.6</p>
+</blockquote></td>
+<td>Framework . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>18</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><blockquote>
+<p>3.6.7</p>
+</blockquote></td>
+<td>Hardware Requirements . . . . . . . . . . . . . . . . . . . . . . . .</td>
+<td><blockquote>
+<p>19</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 > [3.7 Anslysis Model: SDLC Model 20](#anslysis-model-sdlc-model)
 
 4.  SYSTEM DESIGN 22
-
+    
     1.  [System Architecture 22](#system-architecture)
-
+    
     2.  [System Architecture Description
         23](#system-architecture-description)
-
+    
     3.  [Details of each module 23](#details-of-each-module)
-
+    
     4.  [Data Flow Diagrams 25](#data-flow-diagrams)
-
+    
     5.  [ER Diagrams 28](#er-diagrams)
-
+    
     6.  [UML Diagram 29](#uml-diagram)
-
+        
         1.  [Activity Diagram 29](#activity-diagram)
-
+        
         2.  [Sequence Diagram 31](#sequence-diagram)
-
+        
         3.  [Use Case Diagram 32](#use-case-diagram)
-
+        
         4.  [Class Diagram 34](#class-diagram)
 
 5.  EXPERIMENTAL CONFIGURATION 36
-
+    
     1.  [Tools and Technology used 36](#tools-and-technology-used)
 
 6.  SOFTWARE TESTING 37
-
+    
     1.  [Introduction 37](#introduction)
-
+    
     2.  [Types of Testing 37](#types-of-testing)
-
+        
         1.  [Manual Testing 38](#manual-testing)
-
+        
         2.  [Automated Testing 38](#automated-testing)
-
+        
         3.  [Unit Testing 38](#unit-testing)
-
+        
         4.  [Integration Testing 38](#integration-testing)
-
+        
         5.  [Regression Testing 39](#regression-testing)
-
+    
     3.  [Software testing 39](#software-testing)
-
+    
     4.  [Black Box Testing 40](#black-box-testing)
-
+        
         1.  [Black-box 40](#black-box)
-
+    
     5.  [White Box Testing 42](#white-box-testing)
-
+        
         1.  [White-box 42](#white-box)
-
+    
     6.  [Test cases 44](#test-cases)
-
+    
     7.  [Test Results 45](#test-results)
 
 7.  EXPERIMENTAL RESULTS 46
-
+    
     1.  [Screen shots 46](#screen-shots)
 
 8.  OTHER SPECIFICATION 53
-
+    
     1.  [Advantages 53](#advantages)
-
+    
     2.  [Applications 54](#applications)
 
 9.  CONCLUSION 55
@@ -306,7 +531,7 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
     57](#relevant-mathematics-associated-with-the-project)
 
 > [Appendix B 60](#appendix-b)
->
+> 
 > **List of Figures**
 
 1.  SQLite Database 15
@@ -317,9 +542,8 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 
 4.  SDLC Model 20
 
-```{=html}
-<!-- -->
-```
+<!-- end list -->
+
 1.  System Architecture Diagram of Project 22
 
 2.  DFD 0 Diagram 25
@@ -348,9 +572,9 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 
 > **INTRODUCTION**
 
-1.  **Overview**
+1.  > **Overview**
 
-> In today's fast-paced and labour-conscious world, the demand for
+> In today’s fast-paced and labour-conscious world, the demand for
 > trustworthy and efficient labour workforce has become more critical
 > than ever. Traditional methods of hiring labourers are often
 > time-consuming, lack transparency, and may not provide sufficient
@@ -363,8 +587,8 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > feedback systems. The system aims to enhance productivity by making the
 > process of hiring labour more accessible, efficient, and reliable for
 > homes, offices, institutions, and events.
->
-> In today's rapidly evolving digital age, ensuring workplace efficiency and
+> 
+> In today’s rapidly evolving digital age, ensuring workplace efficiency and
 > labour remains a significant concern for individuals, organizations,
 > and institutions alike. The increasing rate of labour shortages has
 > highlighted the need for a reliable and efficient method of sourcing
@@ -383,7 +607,7 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > automation and centralized data access. The platform not only benefits
 > those seeking labour services but also empowers workers by offering
 > them visibility, direct job opportunities, and schedule management
->
+> 
 > tools. Through integration with location services, availability
 > filters, and secure payment gateways, the system ensures an efficient,
 > transparent, and trustworthy environment for both parties. Ultimately,
@@ -391,23 +615,23 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > the labour domain, revolutionizing traditional hiring methods with
 > the power of technology.
 
-2.  **Motivation**
+2.  > **Motivation**
 
 > The motivation behind developing the Online Labour Hiring System stems
-> from the growing need for reliable and streamlined services in today's
+> from the growing need for reliable and streamlined services in today’s
 > society. With rising concerns over personal reliability, theft, and
 > unauthorized access in both residential and commercial areas, the
 > demand for professional labour is steadily increasing. However, the
 > traditional approach to hiring labour through physical agencies or
 > informal references is often inefficient, lacks proper verification,
 > and can be time consuming.
->
+> 
 > Many clients face challenges such as not knowing the background or
 > experience of the labours, difficulty in comparing service providers,
 > and limited access to emergency support. On the other hand,labour
 > personnel often struggle to find suitable jobs due to the lack of an
 > organized platform to showcase their skills and availability.
->
+> 
 > This project is motivated by the desire to solve these problems
 > through a digital platform that offers convenience, transparency, and
 > accessibility. By creating a system where clients can find, evaluate,
@@ -415,7 +639,7 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > profiles and job opportunities we aim to improve the labour hiring
 > process and contribute to a better and more efficient society.
 
-3.  **Problem Statement**
+3.  > **Problem Statement**
 
 > In the current labour services industry, the process of hiring labours
 > is often manual, unorganized, and lacks transparency. Clients usually
@@ -424,28 +648,28 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > service, and reliability concerns. There is no centralized, user-friendly
 > platform that allows clients to search, compare, and hire workers based
 > on verified credentials, experience, availability, or reviews.
->
+> 
 > Similarly, labours face challenges in finding consistent work
 > opportunities, show casing their qualifications, or managing their job
 > schedules effectively. This leads to a gap in communication and trust
 > between clients and service providers.
->
+> 
 > To address these issues, there is a need for a digital platform that
 > can streamline the hiring process, ensure proper verification, and
 > provide real time communication between workers and clients. The Online
 > Labour Hiring System aims to fill this gap by offering a secure,
 > efficient, and accessible solution for both parties.
->
+> 
 > **Chapter 2**
->
+> 
 > **LITERATURE SURVEY**
->
+> 
 > In this chapter we will see the various studies and research conducted
 > in order to identify the current scenarios and trends.
 
-1.  **Literature Papers**
+1.  > **Literature Papers**
 
-#### "Mobile and Web-Based Labourer Working, Monitoring and Re- porting System to Maintain Efficient and Productive Environment at Premises Author:V.R. Gannapathy
+#### ”Mobile and Web-Based Labourer Working, Monitoring and Re- porting System to Maintain Efficient and Productive Environment at Premises Author:V.R. Gannapathy
 
 > The worker tour system helps companies and organizations to monitor
 > their labour activities such as assisting people, buildings,
@@ -456,7 +680,7 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > completed. In some cases, when there is a problem with the device, the
 > system unable to retrieve the working data that has been already
 > stored in the device. In addition, the current system also not be able
-> to track the worker's movement, pa- trolling information, and incidents
+> to track the worker’s movement, pa- trolling information, and incidents
 > in real-time basis. The developed Labourer Working,
 > Monitoring and Reporting (eSmartWorker) system is able incorporates
 > many unique and intelligent technologies such as NFC, GPS and IoT to
@@ -473,7 +697,7 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 
 4
 
-#### "Event Management Systems (EMS)" Author: Drahsti Amrish Shah
+#### “Event Management Systems (EMS)” Author: Drahsti Amrish Shah
 
 > This study aims to develop an Event Management Systems (EMS), a
 > web-based application that makes use of a digital event management
@@ -488,7 +712,7 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > Systems, mixed method, system architecture, project plan, web-based
 > application.\[2\]
 
-#### "Event Management Author: Author:Vinay Mishra
+#### “Event Management Author: Author:Vinay Mishra
 
 > Online event management system is an online event management system
 > software project that serves the functionality of an event manager.
@@ -502,7 +726,7 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > send to administrator (website owner) and they may interact with the
 > client as per his requirement.\[3\]
 
-#### "Web-Based College Event Management Platform"
+#### “Web-Based College Event Management Platform”
 
 #### Author: Bhagyashree Patil, Shruti Rawool, Ayushi Sagar, Prof.Sudhakar Yerme
 
@@ -512,28 +736,30 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > cutting-edge technologies like Node.js, MongoDB, and more. With WEMP,
 > you can create, plan, and track events with minimal administrative
 > overhead. The easy-to-use interface allows you to manage events from
-> registration to post-event feedback. MongoDB's data model is flexible
+> registration to post-event feedback. MongoDB’s data model is flexible
 > and provides scalability as your college community grows. With
 > Node.js, you can communicate in real time, providing instant
 > notifications and updates to event organizers and attendees. The WEMP
 > also has strong authentication and authorization mechanisms to assist
 > sensitive data. Combining the power of Node.js with Mon-
 
-1.  **Limitation of Literature Survey**
+1.  > **Limitation of Literature Survey**
 
--   Costing
+<!-- end list -->
 
--   Technology Complexity
+  - > Costing
 
--   Time Consuming Feature
+  - > Technology Complexity
 
--   Not Easy to Understand
+  - > Time Consuming Feature
+
+  - > Not Easy to Understand
 
 > **Chapter 3**
->
+> 
 > **SOFTWARE REQUIREMENT SPECIFICATION**
 
-1.  **Introduction**
+1.  > **Introduction**
 
 > The Online Labour Hiring System is a web based application designed to
 > simplify the process of hiring labour personnel. It provides a
@@ -541,13 +767,13 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > where labour can register, manage their profiles, and find job
 > opportunities. The purpose of this document is to define the software
 > requirements for the Online Labour Hiring System. It outlines the
-> system's functionality, design constraints, external interfaces, and
+> system’s functionality, design constraints, external interfaces, and
 > performance requirements to ensure a well-defined and scalable
 > product.
->
+> 
 > 7
 
-1.  **Project Scope**
+1.  > **Project Scope**
 
 > This system allows clients to search for and hire certified labour via
 > a web platform. Labour personnel can register, upload documentation,
@@ -556,8 +782,8 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > administrative controls. It aims to simplify, secure, and modernize
 > the hiring process.
 
-2.  **User classes and characteristics**
-
+2.  > **User classes and characteristics**
+    
     1.  Clients are individuals or organizations who require labour
         services. They typically have minimal technical expertise, so
         the interface designed for them is intuitive and user friendly.
@@ -565,7 +791,7 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
         filters (such as location, availability, and experience), view
         profiles, book workers, and provide ratings or feedback after
         service completion.
-
+    
     2.  Labour are professionals offering their services on the
         platform. They require features that allow them to create and
         manage detailed profiles, update availability, respond to job
@@ -573,7 +799,7 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
         technical skills, so the system ensures that profile management
         and job interaction are straight forward and accessible even on
         mobile devices.
-
+    
     3.  Administrators oversee the entire platform, ensuring the
         authenticity and smooth operation of the system. They verify the
         documents and credentials submitted by labour, handle user
@@ -586,120 +812,118 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > specific needs of each group while maintaining usability, and
 > operational efficiency across the platform.
 
-3.  **Assumptions and Dependencies**
-
+3.  > **Assumptions and Dependencies**
+    
     1.  Internet Connectivity: It is assumed that all users (clients,
         labours, and administrators) have access to a stable internet
         connection, as the platform is webbased and relies on realtime
         interactions.
-
+    
     2.  Device Accessibility: Users will access the platform using
         internet enabled devices such as smartphones, tablets, or
         computers with modern web browsers.
-
+    
     3.  User Compliance: Labour are expected to provide valid and
         truthful documentation for identity verification, background
         checks, and certification before being approved to accept job
         requests.
-
+    
     4.  Admin Oversight: It is assumed that the system will always have
         active administrators responsible for reviewing labour
         applications, managing user issues, and overseeing daily
         operations to maintain platform integrity.
-
+    
     5.  Third-party Services: The system may rely on third party APIs
         for functionalities such as SMS/email notifications (e.g.,
         Twilio, SMTP), map services (e.g., Google Maps API), or payment
         gateways (for future enhancements). The availability and
         functionality of these services are beyond the direct control of
         the system.
-
+    
     6.  Data security Measures: The platform assumes that proper data
         encryption and secure coding practices will be implemented to
         assist user data and prevent unauthorized access or breaches.
-
+    
     7.  Legal and Regulatory Compliance: It is assumed that all user
         data will be handled in compliance with data privacy laws
         such as GDPR or local data privacy policies.
-
+    
     8.  System Maintenance: Periodic maintenance and updates are assumed
         to ensure the system remains secure, bug free, and compatible
         with evolving technologies.
 
-```{=html}
-<!-- -->
-```
-2.  **Functional Requirements**
+<!-- end list -->
+
+2.  > **Functional Requirements**
 
 > The Labour System is designed to provide a secure, efficient, and
 > automated access control solution for restricted areas. The following
-> functional requirements define the system's key capabilities:
+> functional requirements define the system’s key capabilities:
 
--   User Registration and Login:
+  - > User Registration and Login:
 
 > The system shall allow clients and labour to register using an email
 > ID, phone number, and password. The system shall validate credentials
 > and allow secure login for registered users.
 
--   User Role Management:
+  - > User Role Management:
 
 > The system shall differentiate between clients, labour, and
 > administrators, providing access to features based on user roles.
 
--   Profile Creation and Management:
+  - > Profile Creation and Management:
 
 > Labour shall be able to create and update their profiles, including
 > name, contact details, experience, ID proof, certifications, and
 > availability.
->
+> 
 > Clients shall have profiles that store their contact details, job
 > history, and feedback given.
 
--   Search and Filter Workers:
+  - > Search and Filter Workers:
 
 > Clients shall be able to search for labour based on filters such as
 > location, availability, rating, language, or years of experience.
 
--   Booking System:
+  - > Booking System:
 
 > The system shall allow clients to book labour for specific time slots
 > and dates. Bookings shall generate notifications for labour and update
 > their availability status.
 
--   Notification System:
+  - > Notification System:
 
 > The system shall send realtime notifications to labour and clients via
 > email or SMS when a booking is made, modified, or canceled.
 
--   Document Upload and Verification:
+  - > Document Upload and Verification:
 
 > Labour shall upload verification documents, which shall be reviewed
 > and approved by the administrator before the profile goes live.
 
-1.  **System Interface**
+1.  > **System Interface**
+    
+    1.  > Secure system
+    
+    2.  > Database requirement
+    
+    3.  > Notification to user
 
-    1.  Secure system
+<!-- end list -->
 
-    2.  Database requirement
-
-    3.  Notification to user
-
-```{=html}
-<!-- -->
-```
-1.  **Evternal Interface Requirement**
-
-    1.  **User Interfaces**
+1.  > **Evternal Interface Requirement**
+    
+    1.  > **User Interfaces**
 
 > User has to interface with system to access the features and to
 > provide easy communication with system.
 
-2.  **Communication Interfaces**
+2.  > **Communication Interfaces**
 
 > There is a specific network protocol as long as the performance
 > requirement are satisfied.
 
-3.  **Software Quality Attributes**
+3.  > **Software Quality Attributes**
 
 > Software testing is a critical element of software quality assurance
 > and represents the ultimate review of specification, design and
@@ -713,7 +937,7 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > with methods that can economically and effectively apply to both
 > strategic to both large and small scale systems.
 
-2.  **User Interfaces**
+2.  > **User Interfaces**
 
 > The user experience should be considered as priority in user
 > interface. This is the way that the product will be used by users.
@@ -723,19 +947,19 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > usability and user experience goals. There are six goals of usability.
 > They could make the product easy to learn and effective to use.
 
-1.  **Six Usability Goals**
-
-    1.  Effective to use(effectiveness)
-
-    2.  Efficient to use(efficiency)
-
-    3.  Reliable to use(reliability)
-
-    4.  Having good utility(utility)
-
-    5.  Easy to learn(learnability)
-
-    6.  Easy to remember how to use(memorability)
+1.  > **Six Usability Goals**
+    
+    1.  > Effective to use(effectiveness)
+    
+    2.  > Efficient to use(efficiency)
+    
+    3.  > Reliable to use(reliability)
+    
+    4.  > Having good utility(utility)
+    
+    5.  > Easy to learn(learnability)
+    
+    6.  > Easy to remember how to use(memorability)
 
 > Effectiveness is a common goal to reach the best result of the
 > expectation. The performance of the software is satisfactory.
@@ -745,99 +969,99 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 > will think there are some problems with it. It will worsen the user
 > experience.
 
-3.  **Nonfunctional Requirement**
-
-    1.  **Usability:**
+3.  > **Nonfunctional Requirement**
+    
+    1.  > **Usability:**
 
 > The ease with which the system can be learned, managed or used.
 > Usability gives the measure of how much user friendly the system is.
 
-2.  **Reliability:**
+2.  > **Reliability:**
 
 > The degree to which the system must work for users. It also refers to
 > the mean time between failures, means what can be the maximum down
 > time.
 
-3.  **Performance:**
+3.  > **Performance:**
 
 > Performance specifications typically refer to response time,
 > transaction throughput, and capacity. They deal with response time,
 > which means the time taken by the system to load, reload, screen open
 > and refresh times etc.
 
-4.  **Scalability:**
+4.  > **Scalability:**
 
 > It refers to the ability of the proposed software application to
 > increase the number of users or applications associated with the
 > product.
 
-5.  **Open standard:**
+5.  > **Open standard:**
 
 > It ensures the viability and future expansion of the system, all
 > offered development tools, server software, as well as, the
 > application are based on open templates and are available under the
 > terms of the General Public License.
 
-4.  **System Requirements**
-
-    1.  **Database Requirements**
-
-    2.  **Database**
+4.  > **System Requirements**
+    
+    1.  > **Database Requirements**
+    
+    2.  > **Database**
 
 ![](media/media/image2.jpeg)
 
 > **Figure 3.1:** SQLite Database
->
+> 
 > SQLite is an embedded, server less relational database management
 > system. It is an in- memory open-source library with zero
 > configuration and does not require any installation. Also, it is very
-> convenient as it's less than 500kb in size, which is significantly
+> convenient as it’s less than 500kb in size, which is significantly
 > lesser than other database management systems.
->
+> 
 > Features of SQLite as follows,
 
--   SQLite is used to develop embedded software for devices like
+  - SQLite is used to develop embedded software for devices like
     televisions, cell phones, cameras, etc.
 
--   It Can manage low to medium traffic HTTP requests.
+  - > It Can manage low to medium traffic HTTP requests.
 
--   SQLite can change files into smaller size archives with lesser
+  - > SQLite can change files into smaller size archives with lesser
     > metadata.
 
--   SQLite is used as a temporary dataset to get processed with some
+  - SQLite is used as a temporary dataset to get processed with some
     data within an application.
 
--   SQLite is an open-source software. The software does not require any
-    license after installation. SQLite is serverless as it doesn't need
+  - SQLite is an open-source software. The software does not require any
+    license after installation. SQLite is serverless as it doesn’t need
     a different server process or system to operate.
 
--   SQLite facilitates you to work on multiple databases on the same
+  - SQLite facilitates you to work on multiple databases on the same
     session simultaneously, thus making it flexible.
-
-    1.  **Software Requirements(Platform Choice)**
-
-    2.  **Development Tools**
+    
+    1.  > **Software Requirements(Platform Choice)**
+    
+    2.  > **Development Tools**
 
 ![](media/media/image3.png)
 
 > **Figure 3.2:** Python software programming language
->
+> 
 > Python is a multiparadigm programming language. Object-oriented
 > programming and structured programming are fully supported, and many
 > of their features support functional programming and aspect-oriented
 > programming (including metaprogramming and metaobjects).
->
+> 
 > Python is an interpreted, object oriented, high level programming
 > language with dynamic semantics. Its high-level built in data
 > structures, combined with dynamic typing and dynamic binding, make it
 > very attractive for Rapid Application Development, as well as for use
 > as a scripting or glue language to connect existing components
-> together. Python's simple, easy to learn syntax emphasizes readability
+> together. Python’s simple, easy to learn syntax emphasizes readability
 > and therefore reduces the cost of program maintenance. Python supports
 > modules and packages, which encourages program modularity and code
 > reuse.
 
-3.  **Programming Language**
+3.  > **Programming Language**
 
 > Visual Studio Code is a free and open-source code editor developed by
 > Microsoft. It is a popular choice among developers for its versatility
@@ -849,110 +1073,112 @@ Mr.Raut Ritesh Dnyaneshwar (23651230112)
 
 Here are some key aspects of Visual Studio Code (VS Code):
 
-1.  Cross Platform: VS Code is available for Windows, macOS, and Linux,
-    > making it a versatile choice for developers on various platforms.
+1.  > Cross Platform: VS Code is available for Windows, macOS, and
+    > Linux, making it a versatile choice for developers on various
+    > platforms.
 
-2.  Lightweight: It's a lightweight code editor that's faster and uses
+2.  > Lightweight: It’s a lightweight code editor that’s faster and uses
     > fewer system resources compared to fullfledged integrated
     > development environments (IDEs).
 
-3.  Extensible: VS Code supports a wide range of programming languages
+3.  > Extensible: VS Code supports a wide range of programming languages
     > and has a rich extension ecosystem. You can install extensions to
     > tailor the editor to your specific needs.
 
-4.  Intelligent Code Editing: It offers features like syntax
+4.  > Intelligent Code Editing: It offers features like syntax
     > highlighting, code completion, and linting for various programming
     > languages.
 
-5.  Integrated Git: VS Code has built in Git support, making it easy to
-    > work with version control for your projects.
+5.  > Integrated Git: VS Code has built in Git support, making it easy
+    > to work with version control for your projects.
 
-6.  Debugging: It provides integrated debugging tools for various
+6.  > Debugging: It provides integrated debugging tools for various
     > languages and platforms.
 
-7.  Terminal Integration: You can run terminal commands directly within
-    > the editor.
+7.  > Terminal Integration: You can run terminal commands directly
+    > within the editor.
 
-8.  Customizable Themes and Styles: VS Code allows you to choose from a
-    > variety of themes and customize the editor's appearance to your
+8.  > Customizable Themes and Styles: VS Code allows you to choose from
+    > a variety of themes and customize the editor’s appearance to your
     > liking.
 
-9.  Community and Documentation: There's a large and active community
+9.  > Community and Documentation: There’s a large and active community
     > around VS Code, and you can find extensive documentation and
     > tutorials to help you get started.
 
-10. Visual Studio Live Share: A feature that allows real-time
+10. > Visual Studio Live Share: A feature that allows real-time
     > collaboration between developers, making it easier to work on code
     > together.
 
 > VS Code has gained popularity in a wide range of development
-> communities, from web development to data science, and it's known for
+> communities, from web development to data science, and it’s known for
 > its ease of use, performance, and the ability to adapt it to different
 > coding workflows.
 
-4.  **Framework**
+4.  > **Framework**
 
 > Django is a high level Python web framework that encourages rapid
 > development and clean, pragmatic design. It follows the Model View
 > Controller (MVC) architectural pattern and is designed to make it
 > easier for developers to build web applications quickly and
 > efficiently.
->
+> 
 > Django provides a wide range of features and tools, including:
 
-1.  An Object Relational Mapping (ORM) system for database management.
+1.  > An Object Relational Mapping (ORM) system for database management.
 
-2.  A built in admin interface for managing the application's data.
+2.  > A built in admin interface for managing the application’s data.
 
-3.  A URL routing system.
+3.  > A URL routing system.
 
-4.  A template system for creating dynamic web pages.
+4.  > A template system for creating dynamic web pages.
 
-5.  Authentication and authorization mechanisms.
+5.  > Authentication and authorization mechanisms.
 
-6.  Labour features to assist against common web application
+6.  > Labour features to assist against common web application
     > vulnerabilities.
 
-7.  Internationalization and localization support.
+7.  > Internationalization and localization support.
 
-8.  Extensibility through reusable apps and plugins.
+8.  > Extensibility through reusable apps and plugins.
 
-9.  Community support and a vast ecosystem of third-party packages.
+9.  > Community support and a vast ecosystem of third-party packages.
 
 > Django is commonly used for developing all sorts of web applications,
 > from small personal projects to large, complex websites. It is known
-> for its robustness, scalability, and the "batteries included"
+> for its robustness, scalability, and the ”batteries included”
 > philosophy, which means that it comes with a lot of built-in
 > functionality to help you get started quickly.
->
+> 
 > list of software requirement are as follow:
 
--   Windows 7 or above
+  - > Windows 7 or above
 
--   Vscode, Xamp
+  - > Vscode, Xamp
 
--   Python
+  - > Python
 
--   Django
+  - > Django
 
-5.  **Hardware Requirements**
+<!-- end list -->
 
-    1.  Processor - Pentium IV/Intel I3 core
+5.  > **Hardware Requirements**
+    
+    1.  > Processor - Pentium IV/Intel I3 core
+    
+    2.  > Speed - 1.1 GHZ
+    
+    3.  > RAM - 512 MB(min)
+    
+    4.  > Hard disk - 20 GB
+    
+    5.  > Keyboard - Standard Keyboard
+    
+    6.  > Mouse - Two Or Three Button Mouse
+    
+    7.  > Monitor - LED Monitor
 
-    2.  Speed - 1.1 GHZ
-
-    3.  RAM - 512 MB(min)
-
-    4.  Hard disk - 20 GB
-
-    5.  Keyboard - Standard Keyboard
-
-    6.  Mouse - Two Or Three Button Mouse
-
-    7.  Monitor - LED Monitor
-
-Anslysis Model: SDLC Model
---------------------------
+## Anslysis Model: SDLC Model
 
 ![](media/media/image5.jpeg)
 
@@ -995,22 +1221,20 @@ Anslysis Model: SDLC Model
 > put into use. It also corrects errors that are not found at the
 > manufacturing stage. In this stage, system development is also carried
 > out such as the addition of new features and functions.
->
+> 
 > **Chapter 4**
 
 ![](media/media/image6.png)
 
 > **SYSTEM DESIGN**
 
-**System Architecture**
------------------------
+## **System Architecture**
 
 > Figure 4.1: System Architecture Diagram of Project
->
+> 
 > 22
 
-System Architecture Description
--------------------------------
+## System Architecture Description
 
 > The architecture of the Online Labour Hiring System is designed to
 > ensure seamless interaction between users and system components. It
@@ -1031,13 +1255,12 @@ System Architecture Description
 > scalability, and efficiency, ensuring a responsive and reliable
 > experience for all types of users.
 
-**Details of each module**
---------------------------
+## **Details of each module**
 
 > The architecture of the Online Labour Hiring System is designed to
 > ensure seamless interaction between users and system components.
 
--   #### **User Registration and Authentication Module:**
+  - #### **User Registration and Authentication Module:**
 
 > This module allows both clients and labour to register on the
 > platform. It collects necessary details such as name, contact
@@ -1045,7 +1268,7 @@ System Architecture Description
 > ensures secure login using email and password, and optionally supports
 > password recovery.
 
--   **Admin Module:**
+  - **Admin Module:**
 
 > The admin has complete control over the platform. This module allows
 > admins to verify user profiles, approve or reject labour
@@ -1053,50 +1276,49 @@ System Architecture Description
 > reports. Admins can also monitor system activity to ensure compliance
 > and efficiency.
 
--   **Labour Profile Management Module :**This module enables labour to
+  - **Labour Profile Management Module :**This module enables labour to
     create and manage their profiles, including experience,
     availability, location preferences, and skill certifications. It
     also allows them to view and apply for jobs that match their
     qualifications.
 
--   **Job Posting and Search Module :**
+  - **Job Posting and Search Module :**
 
 > Clients can post requirements for labour services, specifying the
 > location, timing, duration, and any specific skills required. Labour
 > can search and apply for suitable jobs. This module includes smart
 > filtering based on availability, proximity, and qualifications.
 
--   **Booking and Hiring Module** Once a client selects a labour , this
+  - **Booking and Hiring Module** Once a client selects a labour , this
     module facilitates the hiring process. It includes job confirmation,
     scheduling, communication tools, and service history. This module
     ensures that both parties can manage the job status and track
     service periods.
 
--   **Feedback and Rating Module:** After the completion of a job, both
+  - **Feedback and Rating Module:** After the completion of a job, both
     the client and the labour can rate and review each other. This
     feedback system builds trust and helps future users make informed
     decisions based on service quality.
 
--   **Notification Module** This module sends alerts and notifications
+  - **Notification Module** This module sends alerts and notifications
     via email or in app messages for new job posts, application
     approvals, status updates, and reminders. It ensures smooth
     communication and real time updates for all users.
-
-    1.  Data Flow Diagrams
-        ------------------
+    
+    1.  ## Data Flow Diagrams
 
 > A data flow diagram (DFD) is a graphical or visual representation
 > using a standardized set of symbols and notations to describe a
-> business's operations through data movement. They are often elements
+> business’s operations through data movement. They are often elements
 > of a formal methodology such as Structured Systems Analysis and Design
 > Methods.
->
+> 
 > The objective of a DFD is to show the scope and boundaries of a system
 > as a whole. It may be used as a communication tool between a system
 > analyst and any person who plays a part in the order that acts as a
 > starting point for redesigning a system. The DFD is also called as a
 > data flow graph or bubble chart.
->
+> 
 > DFD 0, also called context diagram of the result management system. As
 > the bubbles are decomposed into less and less abstract bubbles, the
 > corresponding data flow may also be needed to be decomposed.
@@ -1104,7 +1326,7 @@ System Architecture Description
 ![](media/media/image7.jpeg)
 
 > **Figure 4.2:** DFD 0 Diagram
->
+> 
 > DFD 1, a context diagram is decomposed into multiple
 > bubbles/processes. In this level, we highlight the main objectives of
 > the system and breakdown the high- level process of 0-level DFD into
@@ -1113,19 +1335,18 @@ System Architecture Description
 ![](media/media/image8.jpeg)
 
 > **Figure 4.3:** DFD 1 Diagram
->
+> 
 > ![](media/media/image9.jpeg)
->
+> 
 > **Figure 4.4:** DFD 2 Diagram
 
-**ER Diagrams**
----------------
+## **ER Diagrams**
 
 > An entity relationship diagram (ERD), also known as an entity
 > relationship model, is a graphical representation that depicts
 > relationships among people, ob- jects, places, concepts or events
 > within an information technology (IT) system.
->
+> 
 > Depending on the scale of change, it can be risky to alter a database
 > structure directly in a DBMS. To avoid ruining the data in a
 > production database, it is important to plan out the changes
@@ -1138,9 +1359,8 @@ System Architecture Description
 
 > **Figure 4.5:** ER Diagram
 
-3.  **UML Diagram**
-    ---------------
-
+3.  ## **UML Diagram**
+    
     1.  ### **Activity Diagram**
 
 > Use cases show what your system should do. Activity diagrams allow you
@@ -1151,9 +1371,9 @@ System Architecture Description
 > traditional flowchart, an activity diagram shows concurrency as well
 > as branches of control. Activity diagrams focus on the dynamic flow of
 > a system.
->
+> 
 > ![](media/media/image11.jpeg)
->
+> 
 > **Figure 4.6:** Activity Diagram of e-Tendering System
 
 ### **Sequence Diagram**
@@ -1161,7 +1381,7 @@ System Architecture Description
 > The sequence diagram is used primarily to show the interactions
 > between objects in the sequential order that those interactions occur.
 > Developers typically think sequence diagrams were meant exclusively
-> for them. However, an organization's business staff can find sequence
+> for them. However, an organization’s business staff can find sequence
 > diagrams useful to communicate how the business currently works by
 > showing how various business objects interact .Sequence diagrams
 > illustrate how objects interact with each other. They focus on message
@@ -1178,24 +1398,24 @@ System Architecture Description
 
 > Four modeling elements make up the use case diagram; these are:
 
--   **Actors:** Actors refer to a type of users, users are people who
+  - **Actors:** Actors refer to a type of users, users are people who
     use the system. In this case student, teacher developer are the
     users of the framework and application
 
--   **Use cases:** A use case defines behavioral features of a system.
+  - **Use cases:** A use case defines behavioral features of a system.
     Each use case is named using a verb phrase that express a goal of
     the system. The name may appear inside or outside the ellipse.
 
--   **Associations:** An association is a relationship between an actor
+  - **Associations:** An association is a relationship between an actor
     and a use case. The relationship is represented by a line between an
     actor and a use case.
 
--   **The include relationship:** It is analogous to a call between
+  - **The include relationship:** It is analogous to a call between
     objects. One use case requires some type of behavior which is fully
     defined in another use case.
 
 > ![](media/media/image13.jpeg)
->
+> 
 > **Figure 4.8:** Usecase Diagram
 
 ### Class Diagram
@@ -1208,7 +1428,7 @@ System Architecture Description
 > interfaces. Generalizations, aggregations, and associations are all
 > valuable in reflecting interface, composition or usage and connections
 > receptively.
->
+> 
 > The Figure 6.2 illustrates aggregation relationships between classes.
 > The lighter aggregation indicates that the class Object Explorer used
 > Thumb Nail, but does not necessarily contain an instance of it. The
@@ -1216,15 +1436,14 @@ System Architecture Description
 > ownership or containment of the source classes by the target. Class,
 > for example Video Player values will be contained in Table Of
 > Contents.
->
+> 
 > ![](media/media/image14.png)
->
+> 
 > **Figure 4.9:** Class diagram
->
+> 
 > **EXPERIMENTAL CONFIGURATION**
 
-Tools and Technology used
--------------------------
+## Tools and Technology used
 
 > The Online Labour Hiring System is developed as a web-based
 > application, enabling users to access the platform through any
@@ -1242,11 +1461,10 @@ Tools and Technology used
 > flexibility and scalability, ensuring it can adapt to increasing user
 > demands and support future enhancements like payment integration or
 > background verification modules.
->
+> 
 > **SOFTWARE TESTING**
 
-Introduction
-------------
+## Introduction
 
 > Software testing is an activity aimed at evaluating an attribute or
 > capability of a program or system and determining that it meets its
@@ -1263,21 +1481,20 @@ Introduction
 > this chapter there is relevant explanation on testing strategies use
 > to test the system, and test cases.
 
-Types of Testing
-----------------
+## Types of Testing
 
 > Testing Strategy used for testing the system are as follows,
 
-1.  Manual Testing
+1.  > Manual Testing
 
-2.  Automated Testing
+2.  > Automated Testing
 
-3.  Unit Testing
+3.  > Unit Testing
 
-4.  Integration Testing
+4.  > Integration Testing
 
-5.  Regression Testing
-
+5.  > Regression Testing
+    
     1.  ### Manual Testing
 
 > Manual and Automated test are the types of software testing. We are
@@ -1322,7 +1539,7 @@ Types of Testing
 > level design. Facial Emotion Recognition Using Convolutional Neural
 > Network Integration testing is an efficient procedure for verification
 > of the structure
->
+> 
 > of a software system and validation of order of execution of software
 > system while conducting tests to determine errors allied with
 > interfacing.
@@ -1337,8 +1554,7 @@ Types of Testing
 > functionality of the software system when the software functions are
 > likely to be affected by the modifications or change.
 
-Software testing
-----------------
+## Software testing
 
 > Software testing can also provide an objective, independent view of
 > the software to allow the business to appreciate and understand the
@@ -1350,17 +1566,17 @@ Software testing
 > one or more properties of interest. In general, these properties
 > indicate the extent to which the component or system under test:
 
--   Meets the requirements that guided its design and development,
+  - > Meets the requirements that guided its design and development,
 
--   Responds correctly to all kinds of inputs,
+  - > Responds correctly to all kinds of inputs,
 
--   Performs its functions within an acceptable time,
+  - > Performs its functions within an acceptable time,
 
--   It is sufficiently usable,
+  - > It is sufficiently usable,
 
--   Can be installed and run in its intended environments, and
+  - > Can be installed and run in its intended environments, and
 
--   Achieves the general result its stakeholders desire.
+  - > Achieves the general result its stakeholders desire.
 
 > As the number of possible tests for even simple software components is
 > practically infinite, all software testing uses some strategy to
@@ -1371,8 +1587,7 @@ Software testing
 > iterative process as when one bug is fixed, it can illuminate other,
 > deeper bugs, or can even create new ones.
 
-Black Box Testing
------------------
+## Black Box Testing
 
 > This testing methodology looks at what are the available inputs for an
 > application and what the expected outputs are that should result from
@@ -1384,10 +1599,10 @@ Black Box Testing
 > with the applications graphical user interface (GUI) or image
 > recognition. An example of a black-box system would be a search
 > engine. You enter text that you want to search for in the search bar,
-> press "Search" and results are returned to you. In such a case, you do
+> press “Search” and results are returned to you. In such a case, you do
 > not know or see the specific process that is being employed to obtain
-> your search results, you simply see that you provide an input -- a
-> search term -- and you receive an output your search results.
+> your search results, you simply see that you provide an input – a
+> search term – and you receive an output your search results.
 
 ### Black-box
 
@@ -1413,7 +1628,7 @@ Black Box Testing
 > But, for all of the benefits of black-box testing, many attempts to
 > create black-box test systems resulted in several drawbacks that
 > caused people to question the via- bility of the black-box approach.
->
+> 
 > Some of the most commonly cited issues were:
 
 1.  **Script maintenance:** While an image-based approach to testing is
@@ -1430,14 +1645,13 @@ Black Box Testing
     consistent basis.
 
 3.  **Lack of introspection:** Ironically, one of the greatest criticism
-    of black-box testing is that it isn't more like white-box testing;
-    it doesn't know how to look in- side an application and therefore
+    of black-box testing is that it isn’t more like white-box testing;
+    it doesn’t know how to look in- side an application and therefore
     can never fully test an application or system. The reasons cited for
     needing this capability are often to overcome the first two issues
     mentioned. The reality is quite different.
-
-    1.  White Box Testing
-        -----------------
+    
+    1.  ## White Box Testing
 
 > This testing methodology looks under the covers and into the subsystem
 > of an application. Whereas black-box testing concerns itself
@@ -1478,7 +1692,7 @@ Black Box Testing
 > As such, white-box testing offers testers the ability to be more
 > thorough in terms of how much of an application they can test. Despite
 > these benefits, white-box testing has its drawbacks.
->
+> 
 > Some of the most commonly cited issues are:
 
 1.  **Complexity:** Being able to see every constituent part of an
@@ -1509,174 +1723,365 @@ Black Box Testing
     platform, usually Windows®. Where companies have applications that
     run on other plat- forms, they either need to use a different tool
     or resort to manual testing.
-
-    1.  Test cases
-        ----------
+    
+    1.  ## Test cases
 
 > **Table 6.1:** Test cases
 
-+--------+----------------------------+-----------------------------+
-| > Task | > Description              | > Action                    |
-+========+============================+=============================+
-| > 001  | > System accessible to the | > User should open System   |
-|        | >                          | > from                      |
-|        | > user                     | >                           |
-|        |                            | > PC                        |
-+--------+----------------------------+-----------------------------+
-| > 002  | > Login page               | > The login page is         |
-|        |                            | > displayed on              |
-|        |                            | >                           |
-|        |                            | > System                    |
-+--------+----------------------------+-----------------------------+
-| > 003  | > New Registration         | > new user register with    |
-|        |                            | > name,                     |
-|        |                            | >                           |
-|        |                            | > email ID and password     |
-+--------+----------------------------+-----------------------------+
-| > 004  | > user Login               | > user should log in first  |
-|        |                            | > by entering a username    |
-|        |                            | > and                       |
-|        |                            | >                           |
-|        |                            | > password                  |
-+--------+----------------------------+-----------------------------+
-| > 005  | > Authentication           | > if username and password  |
-|        |                            | > are valid then only       |
-|        |                            | > system will display the   |
-|        |                            | > page of "Online           |
-|        |                            | >                           |
-|        |                            | > Labour Hub Hiring     |
-|        |                            | > System"                   |
-+--------+----------------------------+-----------------------------+
-| > 006  | > Dataset                  | > we create the dataset for |
-|        |                            | > system and trained the    |
-|        |                            | > system and create model   |
-|        |                            | > for analyzing the         |
-|        |                            | >                           |
-|        |                            | > voter information.        |
-+--------+----------------------------+-----------------------------+
-| > 007  | > Apply vote               | > voter can cast a vote by  |
-|        |                            | > selecting                 |
-|        |                            | >                           |
-|        |                            | > the candidate.            |
-+--------+----------------------------+-----------------------------+
-| > 008  | > Processing               | > Here we will do the       |
-|        |                            | > process of                |
-|        |                            | >                           |
-|        |                            | > voting and save it with   |
-|        |                            | > the dataset trained       |
-|        |                            | > model.                    |
-+--------+----------------------------+-----------------------------+
-| > 009  | > Display                  | > System will display the   |
-|        |                            | > vote is                   |
-|        |                            | >                           |
-|        |                            | > successfully placed or    |
-|        |                            | > not.                      |
-+--------+----------------------------+-----------------------------+
+<table>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>Task</p>
+</blockquote></th>
+<th><blockquote>
+<p>Description</p>
+</blockquote></th>
+<th><blockquote>
+<p>Action</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>001</p>
+</blockquote></td>
+<td><blockquote>
+<p>System accessible to the</p>
+<p>user</p>
+</blockquote></td>
+<td><blockquote>
+<p>User should open System from</p>
+<p>PC</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>002</p>
+</blockquote></td>
+<td><blockquote>
+<p>Login page</p>
+</blockquote></td>
+<td><blockquote>
+<p>The login page is displayed on</p>
+<p>System</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>003</p>
+</blockquote></td>
+<td><blockquote>
+<p>New Registration</p>
+</blockquote></td>
+<td><blockquote>
+<p>new user register with name,</p>
+<p>email ID and password</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>004</p>
+</blockquote></td>
+<td><blockquote>
+<p>user Login</p>
+</blockquote></td>
+<td><blockquote>
+<p>user should log in first by entering a username and</p>
+<p>password</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>005</p>
+</blockquote></td>
+<td><blockquote>
+<p>Authentication</p>
+</blockquote></td>
+<td><blockquote>
+<p>if username and password are valid then only system will display the page of ”Online</p>
+<p>Labour Hub Hiring System”</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>006</p>
+</blockquote></td>
+<td><blockquote>
+<p>Dataset</p>
+</blockquote></td>
+<td><blockquote>
+<p>we create the dataset for system and trained the system and create model for analyzing the</p>
+<p>voter information.</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>007</p>
+</blockquote></td>
+<td><blockquote>
+<p>Apply vote</p>
+</blockquote></td>
+<td><blockquote>
+<p>voter can cast a vote by selecting</p>
+<p>the candidate.</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>008</p>
+</blockquote></td>
+<td><blockquote>
+<p>Processing</p>
+</blockquote></td>
+<td><blockquote>
+<p>Here we will do the process of</p>
+<p>voting and save it with the dataset trained model.</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>009</p>
+</blockquote></td>
+<td><blockquote>
+<p>Display</p>
+</blockquote></td>
+<td><blockquote>
+<p>System will display the vote is</p>
+<p>successfully placed or not.</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
-**Test Results**
-----------------
+## **Test Results**
 
 > **Table 6.3:** Test Results
 
-+-----------+--------------+--------------+--------------+----------+
-| > Test ID | >            | > Expected   | > Actual     | > Status |
-|           |  Description | > Result     | > Result     |          |
-+===========+==============+==============+==============+==========+
-| > 001     | > To check   | > User       | > User has   | > PASS   |
-|           | > whether    | > should     | >            |          |
-|           | >            | >            | successfully |          |
-|           | > user       | >            | > connected  |          |
-|           | >            | successfully | > in network |          |
-|           | successfully | > connected  |              |          |
-|           | > connected  | > in network |              |          |
-|           | > in network |              |              |          |
-+-----------+--------------+--------------+--------------+----------+
-| > 002     | > User Login | > User       | > User has   | > PASS   |
-|           |              | > should     | > logged in  |          |
-|           |              | > Login in   | >            |          |
-|           |              | >            | > system     |          |
-|           |              | > system     |              |          |
-+-----------+--------------+--------------+--------------+----------+
-| > 003     | > Data store | > System     | > System has | > PASS   |
-|           | > in         | > should     | > store      |          |
-|           | >            | > store      | >            |          |
-|           | > database   | >            | > values in  |          |
-|           |              | > values in  | > database   |          |
-|           |              | > database   |              |          |
-+-----------+--------------+--------------+--------------+----------+
-| > 004     | > Incorrect  | > If user    | > System has | > PASS   |
-|           | > Data       | > gives      | > shown      |          |
-|           |              | > wrong      | > error      |          |
-|           |              | >            |              |          |
-|           |              | > values     |              |          |
-|           |              | > ,system    |              |          |
-|           |              | > should     |              |          |
-|           |              | > show error |              |          |
-+-----------+--------------+--------------+--------------+----------+
-| > 005     | > System     | > System     | > System     | > PASS   |
-|           | >            | > should     | > able       |          |
-|           |  performance | >            | > perform as |          |
-|           |              | > perform as | > per        |          |
-|           |              | > per        | >            |          |
-|           |              | >            | requirements |          |
-|           |              | requirements |              |          |
-+-----------+--------------+--------------+--------------+----------+
-| > 006     | > Connection | > System     | > System is  | > PASS   |
-|           | > to network | > should     | > connected  |          |
-|           | > data       | > able to    | > to network |          |
-|           | > protocol   | > connect to | > protocol   |          |
-|           |              | > network    |              |          |
-|           |              | >            |              |          |
-|           |              | > protocol   |              |          |
-+-----------+--------------+--------------+--------------+----------+
-| > 007     | > Delay time | > System     | > System is  | > PASS   |
-|           | >            | > should     | > giving     |          |
-|           | > management | > give       | >            |          |
-|           |              | >            | > quick      |          |
-|           |              | > quick      | > response   |          |
-|           |              | > response   | > to         |          |
-|           |              | > to         |              |          |
-+-----------+--------------+--------------+--------------+----------+
-| > 008     | >            | > System     | > System is  | > PASS   |
-|           | Notification | > should     | > giving     |          |
-|           | > to user on | > able to    | >            |          |
-|           | > display    | > give       | notification |          |
-|           |              | >            | > to user on |          |
-|           |              | notification | >            |          |
-|           |              | > to         | > display    |          |
-|           |              | >            |              |          |
-|           |              | > user on    |              |          |
-|           |              | > display    |              |          |
-+-----------+--------------+--------------+--------------+----------+
-| > 009     | > System     | > System     | > System     | > PASS   |
-|           | > Accuracy   | > should     | > able to    |          |
-|           |              | >            | >            |          |
-|           |              | >            | > perform    |          |
-|           |              |  performance | > features   |          |
-|           |              | > features   | > with       |          |
-|           |              | > with       | > accuracy   |          |
-|           |              | > accuracy   |              |          |
-+-----------+--------------+--------------+--------------+----------+
-| > 010     | > System     | > should     | > System is  | > PASS   |
-|           | > output     | > give all   | > give all   |          |
-|           | > test       | > the output | > the output |          |
-|           | > System     | > as per     | > as per     |          |
-|           |              | >            | >            |          |
-|           |              | >            | >            |          |
-|           |              |  programming |  programming |          |
-+-----------+--------------+--------------+--------------+----------+
+<table>
+<thead>
+<tr class="header">
+<th><blockquote>
+<p>Test ID</p>
+</blockquote></th>
+<th><blockquote>
+<p>Description</p>
+</blockquote></th>
+<th><blockquote>
+<p>Expected Result</p>
+</blockquote></th>
+<th><blockquote>
+<p>Actual Result</p>
+</blockquote></th>
+<th><blockquote>
+<p>Status</p>
+</blockquote></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><blockquote>
+<p>001</p>
+</blockquote></td>
+<td><blockquote>
+<p>To check whether</p>
+<p>user successfully connected in network</p>
+</blockquote></td>
+<td><blockquote>
+<p>User should</p>
+<p>successfully connected in network</p>
+</blockquote></td>
+<td><blockquote>
+<p>User has successfully connected in network</p>
+</blockquote></td>
+<td><blockquote>
+<p>PASS</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>002</p>
+</blockquote></td>
+<td><blockquote>
+<p>User Login</p>
+</blockquote></td>
+<td><blockquote>
+<p>User should Login in</p>
+<p>system</p>
+</blockquote></td>
+<td><blockquote>
+<p>User has logged in</p>
+<p>system</p>
+</blockquote></td>
+<td><blockquote>
+<p>PASS</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>003</p>
+</blockquote></td>
+<td><blockquote>
+<p>Data store in</p>
+<p>database</p>
+</blockquote></td>
+<td><blockquote>
+<p>System should store</p>
+<p>values in database</p>
+</blockquote></td>
+<td><blockquote>
+<p>System has store</p>
+<p>values in database</p>
+</blockquote></td>
+<td><blockquote>
+<p>PASS</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>004</p>
+</blockquote></td>
+<td><blockquote>
+<p>Incorrect Data</p>
+</blockquote></td>
+<td><blockquote>
+<p>If user gives wrong</p>
+<p>values ,system should show error</p>
+</blockquote></td>
+<td><blockquote>
+<p>System has shown error</p>
+</blockquote></td>
+<td><blockquote>
+<p>PASS</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>005</p>
+</blockquote></td>
+<td><blockquote>
+<p>System performance</p>
+</blockquote></td>
+<td><blockquote>
+<p>System should</p>
+<p>perform as per requirements</p>
+</blockquote></td>
+<td><blockquote>
+<p>System able perform as per requirements</p>
+</blockquote></td>
+<td><blockquote>
+<p>PASS</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>006</p>
+</blockquote></td>
+<td><blockquote>
+<p>Connection to network data protocol</p>
+</blockquote></td>
+<td><blockquote>
+<p>System should able to connect to network</p>
+<p>protocol</p>
+</blockquote></td>
+<td><blockquote>
+<p>System is connected to network protocol</p>
+</blockquote></td>
+<td><blockquote>
+<p>PASS</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>007</p>
+</blockquote></td>
+<td><blockquote>
+<p>Delay time</p>
+<p>management</p>
+</blockquote></td>
+<td><blockquote>
+<p>System should give</p>
+<p>quick response to</p>
+</blockquote></td>
+<td><blockquote>
+<p>System is giving</p>
+<p>quick response to</p>
+</blockquote></td>
+<td><blockquote>
+<p>PASS</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>008</p>
+</blockquote></td>
+<td><blockquote>
+<p>Notification to user on display</p>
+</blockquote></td>
+<td><blockquote>
+<p>System should able to give notification to</p>
+<p>user on display</p>
+</blockquote></td>
+<td><blockquote>
+<p>System is giving notification to user on</p>
+<p>display</p>
+</blockquote></td>
+<td><blockquote>
+<p>PASS</p>
+</blockquote></td>
+</tr>
+<tr class="odd">
+<td><blockquote>
+<p>009</p>
+</blockquote></td>
+<td><blockquote>
+<p>System Accuracy</p>
+</blockquote></td>
+<td><blockquote>
+<p>System should</p>
+<p>performance features with accuracy</p>
+</blockquote></td>
+<td><blockquote>
+<p>System able to</p>
+<p>perform features with accuracy</p>
+</blockquote></td>
+<td><blockquote>
+<p>PASS</p>
+</blockquote></td>
+</tr>
+<tr class="even">
+<td><blockquote>
+<p>010</p>
+</blockquote></td>
+<td><blockquote>
+<p>System output test System</p>
+</blockquote></td>
+<td><blockquote>
+<p>should give all the output as per</p>
+<p>programming</p>
+</blockquote></td>
+<td><blockquote>
+<p>System is give all the output as per</p>
+<p>programming</p>
+</blockquote></td>
+<td><blockquote>
+<p>PASS</p>
+</blockquote></td>
+</tr>
+</tbody>
+</table>
 
 > **Chapter 7**
->
+> 
 > **EXPERIMENTAL RESULTS**
 
-**Screen shots**
-----------------
+## **Screen shots**
 
 ![](media/media/image15.jpeg)
 
 > 46
->
+> 
 > ![](media/media/image16.jpeg)
 
 ![](media/media/image17.jpeg)
@@ -1698,77 +2103,75 @@ Black Box Testing
 ![](media/media/image25.jpeg)
 
 > ![](media/media/image26.jpeg)
->
+> 
 > **Chapter 8**
->
+> 
 > **OTHER SPECIFICATION**
 
-1.  **Advantages**
-    --------------
-
+1.  ## **Advantages**
+    
     1.  Users can access the platform anytime and from anywhere using a
         device with an internet connection.
-
+    
     2.  Automates the traditional labour hiring process, reducing the
         time needed for recruitment and verification.
-
+    
     3.  Clients and labour receive instant notifications for bookings,
         job status, and application approvals.
-
+    
     4.  Ratings, reviews, and job history make the system more
         transparent, helping users make informed decisions.
-
+    
     5.  Simple and intuitive design makes it easy for all users to
         navigate, even without technical knowledge.
-
+    
     6.  Labour are verified through uploaded documents and admin
         approval, enhancing trust and reliability.
-
+    
     7.  Admins can monitor and manage all users, postings, and feedback
         from a central dashboard.
-
+    
     8.  Reduces the need for paper based applications and manual
         processes, promoting a greener solution.
 
 > 53
->
+> 
 > Online Labour Hub Hiring System
 
-2.  **Applications**
-    ----------------
-
+2.  ## **Applications**
+    
     1.  Residential Apartments and Housing Societies: For managing entry
         labour and monitoring visitors.
-
+    
     2.  Corporate Offices and Business Parks: To ensure the operational efficiency of
         staff, assets, and premises.
-
+    
     3.  Educational Institutions: To secure campuses, monitor gates, and
         manage event labour.
-
+    
     4.  Event Management Companies: To hire workers for concerts,
         exhibitions, and large gatherings.
-
+    
     5.  Hospitals and Healthcare Facilities: To control access points
         and ensure the operational efficiency of patients and staff.
-
+    
     6.  Banks and Financial Institutions: For round-the-clock labour
         of highly sensitive areas.
-
+    
     7.  Government Buildings and Public Offices: To regulate and reliable
         labour public access and internal operations.
-
+    
     8.  Labour Agencies: To manage their labour workforce, job
         assignments, and client communications.
 
 > 54
->
+> 
 > SND POLYTECHNIC YEOLA- Computer Engineering
->
+> 
 > **Chapter 9**
->
+> 
 > **CONCLUSION**
->
+> 
 > The Online Labour Hiring System offers a smart, efficient, and re-
 > liable solution to modern day labour staffing challenges. By
 > digitizing the entire hiring process, it bridges the gap between
@@ -1788,8 +2191,8 @@ Black Box Testing
     Gannapa- thy. 07-09 September 2022
     https://ieeexplore.ieee.org/document/9896606.
 
-2.  Event Management Systems (EMS), Drahsti Amrish Shah 18-20
-    December 2022. https://ieeexplore.ieee.org/document/10074832
+2.  Event Management Systems (EMS), Drahsti Amrish Shah 18-20 December
+    2022. https://ieeexplore.ieee.org/document/10074832
 
 3.  Event Management System, Vinay Mishra 20-22 October 2021
     https://ieeexplore.ieee.org/document/9633388
@@ -1797,46 +2200,45 @@ Black Box Testing
 4.  Web-Based College Event Management Platform, Bhagyashree Patil,
     Shruti Rawool, Ayushi Sagar, Prof.Sudhakar Yerme 13 June 2005
     https://ieeexplore.ieee.org/document/1437050
-
-    1.  **Relevant Mathematics associated with the Project**
-        ----------------------------------------------------
+    
+    1.  ## **Relevant Mathematics associated with the Project**
 
 ####  **System Description:**
 
 > S= System S I , O , F
->
+> 
 > Where
->
+> 
 > I = Inputs
->
+> 
 > O = Outputs F = Functions
->
+> 
 > I = SB , L , R
->
+> 
 > Where
->
+> 
 > SB = Labour Book L = Login
->
+> 
 > R = Register
->
+> 
 > O = VSB
->
+> 
 > Where
->
+> 
 > VSB = Verified Labour Booking
->
+> 
 > F = A , BC
->
+> 
 > Where
->
+> 
 > A = Authentication
->
+> 
 > BC = Background Check
->
+> 
 > ![](media/media/image27.jpeg)
->
+> 
 > False Positive Negative
->
+> 
 > The 4 elements of matrix (the items in red and green) represent the 4
 > metrics that count the number of correct and incorrect predictions the
 > model made. Each element is given by a label that consist of two
@@ -1847,7 +2249,7 @@ Black Box Testing
 > The precision is calculated as the ratio between the number of
 > positive samples correctly classified to the number of samples
 > classified as Positive (either correctly or incorrectly). The
-> precision measures the model's accuracy in classifying a sample as
+> precision measures the model’s accuracy in classifying a sample as
 > positive.
 
 ![](media/media/image28.jpeg)
@@ -1858,17 +2260,15 @@ Black Box Testing
 
 > The recall is calculated as the ratio between the number of Positive
 > samples correctly classified as Positive to the total of Positive
-> samples. The recall measures the model's ability to detect Positive
+> samples. The recall measures the model’s ability to detect Positive
 > samples. The higher the recall, the more positive samples detected.
 
 ![](media/media/image29.jpeg)
 
 > Fig: Recall Formula
 
- Appendix B
-==========
+#  Appendix B
 
- Paper Publication Certificates
-==============================
+#  Paper Publication Certificates
 
 > 60
